@@ -1,0 +1,5 @@
+dataclasses
+dataclasses_json
+urllib3
+wordcloud
+matplotlib
